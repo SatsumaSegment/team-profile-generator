@@ -15,3 +15,5 @@ Below is an image displaying the web page that is generated once upon following 
 Several Jest tests have been pre-written for the program and I have ensured that my code passes these tests. Below is a screenshot showing that all tests pass.
 
 ![Jest Tests](assets/tests.png)
+
+
