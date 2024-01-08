@@ -16,4 +16,21 @@ Several Jest tests have been pre-written for the program and I have ensured that
 
 ![Jest Tests](assets/tests.png)
 
+## Usage
 
+To use this program, first, clone the repo to your system.
+
+-   Open the terminal in the root directory (containing index.js)
+-   Run `npm install` to install all necessary modules
+-   Run `node index` or `node index.js` to execute the command-line program
+-   Follow the prompts and select "Done" when finished.
+
+A HTML page will be generated and placed in a directory called "output"
+
+## Credits
+
+This program uses the Jest and Inquirer modules and Bootstrap for styling.
+
+## License
+
+MIT
